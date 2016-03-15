@@ -1,0 +1,12 @@
+[submodule "grange"]
+	path = grange
+	url = git@github.com:jaredballou/grange.git
+[submodule "range-spec"]
+	path = range-spec
+	url = git@github.com:jaredballou/range-spec.git
+[submodule "grange-server"]
+	path = grange-server
+	url = git@github.com:jaredballou/grange-server.git
+[submodule "erg"]
+	path = erg
+	url = git@github.com:jaredballou/erg.git
